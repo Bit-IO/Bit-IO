@@ -1,5 +1,11 @@
 ![Portada de Bit-IO Learning](Portada.jpg)
 
+$$
+  E=mc^2
+$$
+
+
+
 # Bienvenido al Bit-IO Learning.
 
 Bit-IO learning es un espacio dedicado al aprendizaje de electrónica, programación y robótica desde cero. Creemos en el aprendizaje práctico y ofrecemos una variedad de recursos para ayudarte a empezar. 
