@@ -1,9 +1,6 @@
 ![Portada de Bit-IO Learning](Portada.jpg)
-
-$$
-  E=mc^2
-$$
-
+$ E=mc^2 $
+$[ \int x , dx = \frac{x^2}{2} + C ]$
 
 
 # Bienvenido al Bit-IO Learning.
