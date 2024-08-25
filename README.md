@@ -32,6 +32,12 @@ La robótica es un campo emocionante que combina la electrónica y la programaci
 
 <a href="https://github.com/Bit-IO-learning/Aprende_robotica_desde_0" >Empezar a aprender</a>
 
+### Impresión 3D 🎲🧩♟
+
+En este repositorio encontraras: como funciona una impresora 3D, como diseñar tu propios proyectos, errores mas comunes y como solucionarlo, volviendote un experto en la impresin 3D.
+
+<a href="https://github.com/Bit-IO-learning/Impresoras_3D_desde_0" >Empezar a aprender</a>
+
 ¡Esperamos que disfrutes y aprendas mucho en nuestro canal, Feliz aprendizaje!
 
 ## Contacto
