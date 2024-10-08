@@ -6,9 +6,9 @@
 [![Twitter Follow](https://img.shields.io/twitter/follow/Bit_IO?style=social)](https://twitter.com/Bit_IO_)
 
 
-Bit-IO learning es un espacio dedicado al aprendizaje de electrónica, programación y robótica desde cero. Creemos en el aprendizaje práctico y ofrecemos una variedad de recursos para ayudarte a empezar. 
+Bit-IO es un espacio dedicado al aprendizaje de electrónica, programación y robótica desde cero. Creemos en el aprendizaje práctico y ofrecemos una variedad de recursos para ayudarte a empezar. 
 
-En Bit-IO Learning, encontrarás una variedad de repositorios que te ayudarán a adquirir y mejorar tus habilidades en estos campos.
+En Bit-IO, encontrarás una variedad de repositorios que te ayudarán a adquirir y mejorar tus habilidades en estos campos.
 
 
 ## Nuestros Repositorios
