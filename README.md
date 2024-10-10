@@ -1,7 +1,7 @@
 
 # Hola, bienvenido a Bit-IO 👋.
 
-![Portada de Bit-IO Learning](BitIO.jpg)
+![Portada de Bit-IO Learning](/img/BitIO.jpg)
 ![GitHub Followers](https://img.shields.io/github/followers/Bit-IO?style=social)
 [![Twitter Follow](https://img.shields.io/twitter/follow/Bit_IO?style=social)](https://twitter.com/Bit_IO_)
 
