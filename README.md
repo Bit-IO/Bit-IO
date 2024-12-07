@@ -2,8 +2,6 @@
 # Hola, bienvenido a Bit-IO 👋.
 
 ![Portada de Bit-IO Learning](/img/BitIO.jpg)
-![GitHub Followers](https://img.shields.io/github/followers/Bit-IO?style=social)
-[![Twitter Follow](https://img.shields.io/twitter/follow/Bit_IO?style=social)](https://twitter.com/Bit_IO_)
 
 [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Bit-IO&show_icons=true&theme=github_dark&bg_color=00000000&icon_color=8b949e&border_color=30363d&border_radius=6&hide_title=true&card_width=450&custom_title=GitHub%20Stats#gh-dark-mode-only)](https://github.com/Bit-IO/github-readme-stats#gh-dark-mode-only)&nbsp;&nbsp;&nbsp;
 [![GitHub Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Bit-IO&theme=github_dark&bg_color=00000000&icon_color=8b949e&border_color=30363d&border_radius=6&langs_count=6&layout=compact&card_width=380#gh-dark-mode-only)](https://github.com/Bit-IO/github-readme-stats#gh-dark-mode-only)
