@@ -49,3 +49,9 @@ En este repositorio encontraras: como funciona una impresora 3D, como diseñar t
 ## Contacto
 
 Si tienes alguna pregunta o sugerencia, no dudes en contactarnos por medio de Instagram en <a href="https://www.instagram.com/electronica_bitio/" >@electronica_bitio</a>, o por el correo electronica.bitio@gmail.com.
+
+
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Bit-IO&show_icons=true&theme=github_dark&bg_color=00000000&icon_color=8b949e&border_color=30363d&border_radius=6&hide_title=true&card_width=450&custom_title=GitHub%20Stats#gh-dark-mode-only)](https://github.com/Bit-IO/github-readme-stats#gh-dark-mode-only)&nbsp;&nbsp;&nbsp;
+[![GitHub Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Bit-IO&theme=github_dark&bg_color=00000000&icon_color=8b949e&border_color=30363d&border_radius=6&langs_count=6&layout=compact&card_width=380#gh-dark-mode-only)](https://github.com/Bit-IO/github-readme-stats#gh-dark-mode-only)
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Bit-IO&show_icons=true&theme=default&border_radius=6&hide_title=true&card_width=450&custom_title=GitHub%20Stats#gh-light-mode-only)](https://github.com/Bit-IO/github-readme-stats#gh-light-mode-only)&nbsp;&nbsp;&nbsp;
+[![GitHub Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Bit-IO&theme=default&border_radius=6&langs_count=6&layout=compact&card_width=380#gh-light-mode-only)](https://github.com/Bit-IO/github-readme-stats#gh-light-mode-only)
