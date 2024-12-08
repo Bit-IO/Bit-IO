@@ -9,6 +9,9 @@
 
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Bit-IO&theme=github-dark)
 
+[![GitHub Streak](https://streak-stats.demolab.com/?user=Bit-IO&theme=dark)](https://git.io/streak-stats)
+
+
 Bit-IO es un espacio dedicado al aprendizaje de electrónica, programación y robótica desde cero. Creemos en el aprendizaje práctico y ofrecemos una variedad de recursos para ayudarte a empezar. 
 
 En Bit-IO, encontrarás una variedad de repositorios que te ayudarán a adquirir y mejorar tus habilidades en estos campos.
