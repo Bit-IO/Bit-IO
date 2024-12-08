@@ -11,7 +11,7 @@
 ## Mis lenguajes más usados
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Bit-IO&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USUARIO&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Bit-IO&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
 Bit-IO es un espacio dedicado al aprendizaje de electrónica, programación y robótica desde cero. Creemos en el aprendizaje práctico y ofrecemos una variedad de recursos para ayudarte a empezar. 
 
