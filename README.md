@@ -9,8 +9,8 @@
 
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Bit-IO&theme=github-dark)
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=Bit-IO&theme=dark)](https://git.io/streak-stats)
 
+![Profile Views](https://komarev.com/ghpvc/?username=Bit-IO&color=blue&style=flat)
 
 Bit-IO es un espacio dedicado al aprendizaje de electrónica, programación y robótica desde cero. Creemos en el aprendizaje práctico y ofrecemos una variedad de recursos para ayudarte a empezar. 
 
@@ -50,5 +50,4 @@ En este repositorio encontraras: como funciona una impresora 3D, como diseñar t
 
 Si tienes alguna pregunta o sugerencia, no dudes en contactarnos por medio de Instagram en <a href="https://www.instagram.com/electronica_bitio/" >@electronica_bitio</a>, o por el correo electronica.bitio@gmail.com.
 
-
-<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Bit-IO&theme=gotham&hide_border=true" />
+[![GitHub Streak](https://streak-stats.demolab.com/?user=Bit-IO&theme=dark)](https://git.io/streak-stats)
