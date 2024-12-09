@@ -46,4 +46,4 @@ En este repositorio encontraras: como funciona una impresora 3D, como diseñar t
 
 Si tienes alguna pregunta o sugerencia, no dudes en contactarnos por medio de Instagram en <a href="https://www.instagram.com/electronica_bitio/" >@electronica_bitio</a>, o por el correo electronica.bitio@gmail.com.
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=Bit-IO&theme=dark)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=Bit-IO&theme=transparent&hide_border=true&locale=es&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
