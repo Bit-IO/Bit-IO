@@ -7,6 +7,8 @@
 ## Mis lenguajes más usados
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Bit-IO&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
+[![GitHub Streak](https://streak-stats.demolab.com?user=Bit-IO&theme=transparent&hide_border=true&locale=es&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
+
 
 Bit-IO es un espacio dedicado al aprendizaje de electrónica, programación y robótica desde cero. Creemos en el aprendizaje práctico y ofrecemos una variedad de recursos para ayudarte a empezar. 
 
@@ -46,4 +48,4 @@ En este repositorio encontraras: como funciona una impresora 3D, como diseñar t
 
 Si tienes alguna pregunta o sugerencia, no dudes en contactarnos por medio de Instagram en <a href="https://www.instagram.com/electronica_bitio/" >@electronica_bitio</a>, o por el correo electronica.bitio@gmail.com.
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=Bit-IO&theme=transparent&hide_border=true&locale=es&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
+
