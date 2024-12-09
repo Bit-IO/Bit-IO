@@ -43,7 +43,7 @@ Si tienes alguna pregunta o sugerencia, no dudes en contactarnos por medio de In
 
 
 ## Mis lenguajes más usados
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Bit-IO&layout=compact&hide_border=true&locale=es&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Bit-IO&layout=compact&hide_border=true&locale=es&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Bit-IO&theme=transparent&hide_border=true&locale=es&show_icons=true)
 
