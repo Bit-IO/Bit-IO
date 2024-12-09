@@ -7,6 +7,8 @@
 ## Mis lenguajes más usados
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Bit-IO&layout=compact&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Bit-IO&theme=transparent&show_icons=true)
+
 [![GitHub Streak](https://streak-stats.demolab.com?user=Bit-IO&theme=transparent&hide_border=true&locale=es&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
 
 
