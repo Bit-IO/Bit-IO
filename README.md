@@ -47,8 +47,3 @@ Si tienes alguna pregunta o sugerencia, no dudes en contactarnos por medio de In
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Bit-IO&theme=transparent&hide_border=true&locale=es&show_icons=true)
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=Bit-IO)](https://git.io/streak-stats)
-
-<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=Bit-IO&theme=transparent&hide_border=true&locale=es&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak" /></a>
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=Bit-IO&theme=transparent&hide_border=true&locale=es&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
